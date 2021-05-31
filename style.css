@@ -1,0 +1,45 @@
+b{
+    color: #A01707;
+}
+
+#albuns, #footer{
+    background-color: #212529 !important;
+}
+
+#info-footer p{
+    color: white;
+}
+#info-footer a {
+    text-decoration: none;
+}
+
+#footer .text-center{
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+#p1{color: rgb(131, 131, 131);
+
+}
+
+
+a {align-items: baseline;
+
+}
+
+h2{margin-bottom: 05%;
+margin-top: 05%;
+font-size: 500%;
+}
+
+
+
+
+
+
